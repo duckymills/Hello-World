@@ -1,2 +1,3 @@
 # Hello-World
 just the beginning
+I am a restaurant manager looking to expand my knowledge in other areas.  I love what I do, but I see the world rapidly changing around us.  I know that within the next twenty years many things will be automated.  Knowing this I wanted to expand my knowledge in computer programming and learning how to code.  I feel even in my current business it will prove to be useful especially since we use new technologies all the time and integrate them into our business.  I want to be on the forefront and help design new systems that benefit the industry, rather than people outside the industry trying to make us conform.  
